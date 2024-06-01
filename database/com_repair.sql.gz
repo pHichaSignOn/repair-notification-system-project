@@ -165,7 +165,7 @@ CREATE TABLE `position` (
 --
 
 INSERT INTO `position` (`POSITION_ID`, `POSITION_CODE`, `POSITION_NAME`) VALUES
-(1, 1, 'เจ้าหน้าที่');
+(1, 1, 'เจ้าหน้าที่'),(2, 2, 'ผู้ใช้งานทั่วไป');
 
 -- --------------------------------------------------------
 
